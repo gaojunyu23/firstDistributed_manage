@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="org.jt.manage.service.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Java1.8\jre\bin"/>
+    <property name="java.vm.version" value="25.40-b25"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\jingtao\jt-manage"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\jingtao\jt-manage"/>
+    <property name="java.runtime.version" value="1.8.0_40-b25"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Java1.8\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\thinkpad\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="E:\jingtao\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3889114880699174283.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Java1.8\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:/Java1.8/bin/../jre/bin/server;D:/Java1.8/bin/../jre/bin;D:/Java1.8/bin/../jre/lib/amd64;D:\app\thinkpad\product\11.1.0\db_1\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\plsql\app\oracle\product\11.2.0\server\bin;D:\oraclient\product\11.2.0\client_1;D:\Java1.8\bin;D:\Java1.8\jre\bin;D:\apache-maven-3.5.0\bin;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\Teradata\Client\13.10\ODBC Driver for Teradata\Lib\;C:\Program Files (x86)\Teradata\Client\13.10\Shared ICU Libraries for Teradata\lib\;C:\Program Files (x86)\Teradata\Client\13.10\bin\;D:\plsql\app\oracle\product\11.2.0\server\bin;D:\oracle-client;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\ProgramData\Lenovo\ReadyApps;D:\SvClient\bin;D:\TortoiseGit\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.3.4\;D:\nodejs\;D:\gradle-2.5-all\gradle-2.5\bin;C:\Users\thinkpad\scoop\shims;D:\openssl-1.0.1g-vc11-x64\bin;C:\Program Files\Docker Toolbox;C:\Users\thinkpad\AppData\Roaming\npm;C:\Users\thinkpad\Desktop;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\thinkpad"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="thinkpad"/>
+    <property name="java.class.path" value="/C:/Users/thinkpad/eclipse/jee-oxygen3/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20170516-2042/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Java1.8\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_40"/>
+    <property name="java.ext.dirs" value="D:\Java1.8\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Java1.8\jre\lib\resources.jar;D:\Java1.8\jre\lib\rt.jar;D:\Java1.8\jre\lib\sunrsasign.jar;D:\Java1.8\jre\lib\jsse.jar;D:\Java1.8\jre\lib\jce.jar;D:\Java1.8\jre\lib\charsets.jar;D:\Java1.8\jre\lib\jfr.jar;D:\Java1.8\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\jingtao\jt-manage\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="org.jt.manage.service.AppTest" name="testApp" time="0.003"/>
+</testsuite>
